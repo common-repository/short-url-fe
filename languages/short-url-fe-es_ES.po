@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: short-url-fe\n"
+"POT-Creation-Date: 2022-02-22 12:36+0100\n"
+"PO-Revision-Date: 2022-02-22 12:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: José María Ferri Azorín\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: short-url-fe.php:42
+msgid "(not valid for localhost)"
+msgstr "(no válido para localhost)"
+
+#: short-url-fe.php:164
+msgid "Short URL for this post:"
+msgstr "URL corta:"
+
+#: short-url-fe.php:165
+msgid "Short URL for this page:"
+msgstr "URL corta:"
+
+#: short-url-fe.php:167
+msgid "Copy"
+msgstr "Copiar"
+
+#: short-url-fe.php:202
+msgid "Short URL FE Options"
+msgstr "Opciones de Short URL FE"
+
+#. TRANSLATORS: %s and %s are replaced in code by providers url, please, respect when translate
+#: short-url-fe.php:205
+#, php-format
+msgid ""
+"This plugin automatically adds a short URL for all blog posts (in FrontEnd) "
+"after post content. Uses %s or %s service to get short URLs."
+msgstr ""
+"Este plugin añade automáticamente, después del contenido, una URL acortada "
+"para todas las publicaciones (en el FrontEnd). Usa los servicios de %s o %s "
+"para obtener la URL corta."
+
+#: short-url-fe.php:207
+msgid "Set your options for Short URL FE plugin"
+msgstr "Configura tus opciones para el plugin Short URL FE"
+
+#: short-url-fe.php:218
+msgid "Title Settings"
+msgstr "Configuración de Títulos"
+
+#: short-url-fe.php:220
+msgid "Short URL FE title for posts:"
+msgstr "Título de Short URL FE para publicaciones:"
+
+#: short-url-fe.php:226
+msgid "Short URL FE title for pages:"
+msgstr "Título de Short URL FE para páginas:"
+
+#: short-url-fe.php:234
+msgid "Short URL FE Appearance"
+msgstr "Apariencia de Short URL FE"
+
+#: short-url-fe.php:236
+msgid "Short URL provider"
+msgstr "Proveedor de URL Corta"
+
+#: short-url-fe.php:246
+msgid "Show Short URL FE on pages"
+msgstr "Mostrar Short URL FE en páginas"
+
+#: short-url-fe.php:252
+msgid "Hide Short URL FE on blog posts"
+msgstr "Ocultar Short URL FE en publicaciones"
+
+#: short-url-fe.php:258
+msgid "Show short link for:"
+msgstr "Mostrar enlaces cortos para:"
+
+#: short-url-fe.php:261
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: short-url-fe.php:262
+msgid "Registered users"
+msgstr "Usuarios registrados"
+
+#: short-url-fe.php:263
+msgid "Registered users that can edit"
+msgstr "Usuarios registrados que pueden editar"
+
+#: short-url-fe.php:269
+msgid "Copy URL to Clipboard Option"
+msgstr "Opciones de copiado de URL al portapapeles"
+
+#: short-url-fe.php:271
+msgid "Show Copy URL button"
+msgstr "Mostrar botón de copiado"
+
+#: short-url-fe.php:274
+msgid ""
+"Selecting this will add a button next to Short URL textbox to copy the URL "
+"to clipboard. (See live example below)"
+msgstr ""
+"Si selecciona esta opción se añadirá un botón junto a la caja de texto con "
+"la URL corta para copiar el contenido al portapapeles. (Ver ejemplo más "
+"abajo)"
+
+#: short-url-fe.php:278
+msgid "Copy URL button text:"
+msgstr "Texto del botón de copiado de URL:"
+
+#: short-url-fe.php:284
+msgid "Custom Class for Texbox:"
+msgstr "Clase para la caja de texto:"
+
+#: short-url-fe.php:290
+msgid "Custom Class for Button:"
+msgstr "Clase para el botón:"
+
+#: short-url-fe.php:297
+msgid "Database Options:"
+msgstr "Opciones de base de datos:"
+
+#: short-url-fe.php:299
+msgid "Restore defaults upon plugin deactivation/reactivation"
+msgstr "Restaurar valores por defecto tras reactivación del plugin"
+
+#: short-url-fe.php:300
+msgid ""
+"Only check this if you want to reset plugin settings upon Plugin reactivation"
+msgstr ""
+"Marque esta opción solamente si quiere reiniciar toda la configuración del "
+"plugin tras una reactivación"
+
+#: short-url-fe.php:305
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: short-url-fe.php:310
+msgid "Live example"
+msgstr "Ejemplo"
+
+#: short-url-fe.php:348
+msgid "Settings"
+msgstr "Ajustes"

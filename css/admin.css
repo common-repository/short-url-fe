@@ -1,0 +1,37 @@
+.wrap p.short-url-fe label {
+    font-weight: bold;
+    display: block;
+}
+.wrap p.short-url-fe input[type='text'] {
+    border: 1px solid #888;
+    border-radius: 4px;
+
+    border: 1px solid #888;
+    border-radius: 4px;
+    padding: 2px 6px;
+    width: auto;
+    line-height: 1.5rem;
+}
+.wrap p.short-url-fe button {
+    margin-left: 5px;
+    border-radius: .25rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 3px 12px;
+    cursor: pointer;
+    line-height: 1.5rem;
+    transition: all .3s ease;    
+}
+.wrap p.short-url-fe button:hover {
+    background-color: #088725;
+}
+.wrap form h4 {
+    margin-bottom: 4px;
+    border-bottom: 1px #ddd solid;
+}
+.wrap #short-url-fe-example-box {
+    border: 4px dotted #888;
+    border-style: double;
+    padding: 0 .5rem;
+}

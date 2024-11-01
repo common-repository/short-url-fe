@@ -1,0 +1,30 @@
+p.short-url-fe label {
+    font-weight: bold;
+    display: block;
+}
+p.short-url-fe input[type='text'] {
+    border: 1px solid #888;
+    border-radius: 4px;
+    padding: 2px 6px;
+    width: auto;
+    line-height: 2.5rem;
+}
+p.short-url-fe button {
+    margin-left: 5px;
+    border-radius: .25rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 3px 12px;
+    cursor: pointer;
+    line-height: 2.5rem;
+    transition: all .3s ease;
+}
+p.short-url-fe button:hover {
+    background-color: #088725;
+}
+
+.wrap form h4 {
+    margin-bottom: 4px;
+    border-bottom: 1px #ddd solid;
+}
